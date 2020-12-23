@@ -1,6 +1,8 @@
 .card-container {
   display: flex;
   flex-direction: column;
+  place-content: center center;
+  place-items: center center;
   background-color: #95dada;
   border: 1px solid grey;
   border-radius: 5px;
